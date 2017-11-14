@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="JavaServerPages_LessonFirst:Web-Lesson_10 exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaServerPages_LessonFirst_Web_Lesson_10_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="JavaServerPages_LessonFirst/web/Web-Lesson_10" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="JavaServerPages_LessonFirst" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
